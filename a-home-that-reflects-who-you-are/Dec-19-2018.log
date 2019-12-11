@@ -1,0 +1,78 @@
+[19-Dec-2018 09:35:16 Asia/Kolkata] 
+New LP Lead | name: 'Ritu Chaturvedi', email: 'rituchaturvedi7@gmail.com', phone: '+919704152507', lead_type: 'Landing Page | Botanika', date_captured: '2018-12-19 09:35:16'
+
+
+[19-Dec-2018 09:35:17 Asia/Kolkata] PHP Warning:  file_get_contents(http://botanika08.realeasy.in/IVR_Inbound.aspx?UID=fourqt&amp;PWD=wn9mxO76f34=&amp;f=m&amp;con=%2B919704152507&amp;email=rituchaturvedi7%40gmail.com&amp;name=Ritu+Chaturvedi&amp;url='http://botanika.in/l/a-home-that-reflects-who-you-are/&amp;Remark=4-5-BHK-Flats-At-The-Botanika-Homes-That-Reflect-Who-You-Are&amp;Proj=&amp;src=Google&amp;amob=&amp;city=&amp;location=&amp;ch=ETrading&amp;medium=GSP&amp;campaign=A-Home-That-Reflects-Who-You-Are-Children-of-Arrived&amp;term=Avid-Business-News-Readers-25-34) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection refused in /home/content/47/14019047/html/Botanika/l/a-home-that-reflects-who-you-are/leadgrab2.php on line 115
+[19-Dec-2018 09:35:17 Asia/Kolkata] http://botanika08.realeasy.in/IVR_Inbound.aspx?UID=fourqt&PWD=wn9mxO76f34=&f=m&con=%2B919704152507&email=rituchaturvedi7%40gmail.com&name=Ritu+Chaturvedi&url='http://botanika.in/l/a-home-that-reflects-who-you-are/&Remark=4-5-BHK-Flats-At-The-Botanika-Homes-That-Reflect-Who-You-Are&Proj=&src=Google&amob=&city=&location=&ch=ETrading&medium=GSP&campaign=A-Home-That-Reflects-Who-You-Are-Children-of-Arrived&term=Avid-Business-News-Readers-25-34 - 
+[19-Dec-2018 12:09:46 Asia/Kolkata] 
+New LP Lead | name: 'raghu', email: 'vamanimpressins@gmail.com', phone: '9100441665', lead_type: 'Landing Page | Botanika', date_captured: '2018-12-19 12:09:46'
+
+
+[19-Dec-2018 12:09:48 Asia/Kolkata] http://botanika08.realeasy.in/IVR_Inbound.aspx?UID=fourqt&PWD=wn9mxO76f34=&f=m&con=9100441665&email=vamanimpressins%40gmail.com&name=raghu&url='http://botanika.in/l/a-home-that-reflects-who-you-are/&Remark=&Proj=&src=&amob=&city=&location=&ch=ETrading&medium=&campaign=&term= - Page hit-Valid page hit-Correct user id-Correct password-For microsite-Correct querystringMicrosite Saved Successfully.
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Untitled Page
+</title></head>
+<body>
+    <form name="form1" method="post" action="./IVR_Inbound.aspx?UID=fourqt&amp;PWD=wn9mxO76f34%3d&amp;f=m&amp;con=9100441665&amp;email=vamanimpressins%40gmail.com&amp;name=raghu&amp;url=%27http%3a%2f%2fbotanika.in%2fl%2fa-home-that-reflects-who-you-are%2f&amp;Remark=&amp;Proj=&amp;src=&amp;amob=&amp;city=&amp;location=&amp;ch=ETrading&amp;medium=&amp;campaign=&amp;term=" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzgzNDMwNTMzZGReCsSe1P4Z9vclRZIrqa3T/3uEGu+PXq12yBOIGXfY1w==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5D34FF25" />
+    <div>
+    
+    </div>
+    </form>
+</body>
+</html>
+
+[19-Dec-2018 12:09:55 Asia/Kolkata] 
+New LP Lead | name: 'raghu', email: 'vamanimpressins@gmail.com', phone: '9100441665', lead_type: 'Landing Page | Botanika', date_captured: '2018-12-19 12:09:55'
+
+
+[19-Dec-2018 12:09:56 Asia/Kolkata] http://botanika08.realeasy.in/IVR_Inbound.aspx?UID=fourqt&PWD=wn9mxO76f34=&f=m&con=9100441665&email=vamanimpressins%40gmail.com&name=raghu&url='http://botanika.in/l/a-home-that-reflects-who-you-are/&Remark=&Proj=&src=&amob=&city=&location=&ch=ETrading&medium=&campaign=&term= - Page hit-Valid page hit-Correct user id-Correct password-For microsite-Correct querystringMicrosite Saved Successfully.
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Untitled Page
+</title></head>
+<body>
+    <form name="form1" method="post" action="./IVR_Inbound.aspx?UID=fourqt&amp;PWD=wn9mxO76f34%3d&amp;f=m&amp;con=9100441665&amp;email=vamanimpressins%40gmail.com&amp;name=raghu&amp;url=%27http%3a%2f%2fbotanika.in%2fl%2fa-home-that-reflects-who-you-are%2f&amp;Remark=&amp;Proj=&amp;src=&amp;amob=&amp;city=&amp;location=&amp;ch=ETrading&amp;medium=&amp;campaign=&amp;term=" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzgzNDMwNTMzZGReCsSe1P4Z9vclRZIrqa3T/3uEGu+PXq12yBOIGXfY1w==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5D34FF25" />
+    <div>
+    
+    </div>
+    </form>
+</body>
+</html>
+
+[19-Dec-2018 15:05:44 Asia/Kolkata] 
+New LP Lead | name: 'Hema', email: 'hema1043@gmail.com', phone: '+919949833233', lead_type: 'Landing Page | Botanika', date_captured: '2018-12-19 15:05:44'
+
+
+[19-Dec-2018 15:05:47 Asia/Kolkata] http://botanika08.realeasy.in/IVR_Inbound.aspx?UID=fourqt&PWD=wn9mxO76f34=&f=m&con=%2B919949833233&email=hema1043%40gmail.com&name=Hema&url='http://botanika.in/l/a-home-that-reflects-who-you-are/&Remark=4-5-BHK-Flats-At-The-Botanika-Homes-That-Reflect-Who-You-Are&Proj=&src=Google&amob=&city=&location=&ch=ETrading&medium=GS&campaign=A-Home-That-Reflects-Who-You-Are-Children-of-Arrived&term=Lodha - Page hit-Valid page hit-Correct user id-Correct password-For microsite-Correct querystringMicrosite Saved Successfully.
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Untitled Page
+</title></head>
+<body>
+    <form name="form1" method="post" action="./IVR_Inbound.aspx?UID=fourqt&amp;PWD=wn9mxO76f34%3d&amp;f=m&amp;con=%2b919949833233&amp;email=hema1043%40gmail.com&amp;name=Hema&amp;url=%27http%3a%2f%2fbotanika.in%2fl%2fa-home-that-reflects-who-you-are%2f&amp;Remark=4-5-BHK-Flats-At-The-Botanika-Homes-That-Reflect-Who-You-Are&amp;Proj=&amp;src=Google&amp;amob=&amp;city=&amp;location=&amp;ch=ETrading&amp;medium=GS&amp;campaign=A-Home-That-Reflects-Who-You-Are-Children-of-Arrived&amp;term=Lodha" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzgzNDMwNTMzZGReCsSe1P4Z9vclRZIrqa3T/3uEGu+PXq12yBOIGXfY1w==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5D34FF25" />
+    <div>
+    
+    </div>
+    </form>
+</body>
+</html>
+
