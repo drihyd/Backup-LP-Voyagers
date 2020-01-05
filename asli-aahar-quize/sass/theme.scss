@@ -1,0 +1,358 @@
+@import "compass/css3";
+@import "variables.scss";
+
+.btn {
+	@include border-radius($border-radius);
+	font-family: $heading-font-family;
+	text-transform: none;
+	font-weight: 700;
+	margin: 15px 0px;
+	font-size: 12px;
+	line-height: 30px;
+	outline: none !important;
+	text-decoration: none !important;
+	//@include border-radius(50px);
+	
+	&.btn-default {
+		color: $color-dark;
+		border-color: $color-bright;
+		
+		&:hover, &:active, &:focus {
+			background: $color-bright;
+			color: $color-dark;
+		}
+		
+		&.dropdown-toggle {
+			
+			&:hover, &:active, &:focus {
+				background: $color-light;
+				color: $color-brand;
+			}
+		}
+	}
+	
+	&.btn-lg {
+		padding-left: 21px;
+		padding-right: 21px;
+		font-size: 12px;
+		line-height: 30px;
+		letter-spacing: 2px;
+	}
+	
+	&.btn-sm {
+		padding: 0px 12px 0px;
+		font-size: 12px;
+		line-height: 30px;
+		letter-spacing: 1px;
+	}
+	
+	&.btn-wide {
+		padding-left: 30px;
+		padding-right: 30px;
+		padding-top: 6px;
+		
+		&.btn-sm {
+			padding-top: 0px;
+		}
+		
+		&.with-arrow {
+			padding-right: 36px;
+			position: relative;
+			
+			.arrow {
+				display: block;
+				position: absolute;
+				height: 15px;
+				width: 15px;
+				right: 15px;
+				top: 1px;
+				bottom: 0px;
+				margin: auto auto;
+			}
+		}
+	}
+	
+	&.btn-brand {
+		background: $color-brand;
+		border: none !important;
+		color: $color-bright;
+		position: relative;
+		padding-bottom: 4px;
+		
+		
+		&:hover, &:active, &:focus {
+			border-color: none !important;
+		}
+	}
+	
+	&.btn-cta {
+		@include border-radius(50px);
+		background: $color-accent;
+		color: $color-brand;
+		font-size: 15px;
+		font-weight: bold;
+		border: 2px solid $color-brand;
+		padding: 3px 24px 3px;
+		margin: 0px 0px 15px;
+		letter-spacing: 0.5px;
+	}
+}
+
+.input-group {
+	margin: 15px 0;
+	
+	.form-control {
+		margin: 0px;
+	}
+	
+	.input-group-addon {
+		border-color: $color-brand;
+		color: $color-brand;
+		background: $color-accent;
+	}
+}
+
+.form-control {
+	line-height: 30px;
+	margin: 0px;
+	height: 44px;
+	@include border-radius(2px);
+	border: 1px solid $color-gray;
+	border-color: darken($color-light-gray, 6%) !important;
+	outline: none !important;
+	@include box-shadow(none !important);
+}
+
+.form-group {
+
+	label {
+		
+		&.error, &.cust-error {
+			color: #8b0000;
+			font-size: 12px;
+			padding: 3px;
+			line-height: 1;
+			padding: 0px;
+			margin: 0px;
+			padding-top: 6px;
+			display: block;
+			width: 100%;
+			text-align: left;
+			font-weight: 400;
+		}
+	}
+}
+
+.datepick {
+	font-size: 12px;
+	border: 1px solid $color-brand;
+	@include border-radius(0px);
+	border-top: none;
+}
+
+.datepick-month {
+	border-color: $color-brand;
+	background: $color-accent;
+	height: auto;
+	
+	.datepick-month-header {
+		height: auto;
+		background: $color-accent;
+		color: $color-brand;
+		
+		.datepick-month-year {
+			height: auto;
+			color: $color-brand;
+			background: none;
+		}
+		
+		.datepick-month-year {
+			height: auto;
+			color: $color-brand;
+			background: none;
+		}
+	}
+}
+
+.datepick-month th, .datepick-month th a {
+	//background: $color-brand;
+}
+
+.datepick-month td .datepick-today {
+	background: $color-accent;
+	color: $color-brand;
+}
+
+.datepick-month td .datepick-highlight {
+	background: $color-accent;
+	color: $color-brand;
+}
+
+
+a.datepick-cmd {
+	height: auto;
+	line-height: 24px;
+	font-size: 12px;
+	padding: 0px 12px;
+}
+
+.datepick-nav, .datepick-ctrl {
+	background: $color-brand;
+}
+
+.datepick-cmd:hover {
+	background: lighten($color-brand, 9%);
+	color: $color-bright;
+}
+
+.datepick-month td .datepick-selected {
+	background: $color-accent;
+	color: $color-brand;
+}
+
+section.dark {
+	background: $color-brand;
+	color: $color-bright;
+	
+	h1,h2,h3,h4,h5,h6 {
+		color: $color-bright;
+	}
+} 
+
+.intl-tel-input {
+	display: block;
+	position: relaitve;
+}
+
+.intl-tel-input .selected-flag {
+	height: auto;
+	top: 21px;
+}
+
+.slider-container {
+	position: relative;
+	z-index: 1;
+	
+	.actual-slider {
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+		
+}
+
+.slider-nav-list {
+	list-style-type: none;
+	padding: 0;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	display: block;
+	width: 100%;
+	height: 36px;
+	margin: auto;
+	z-index: 0;
+	
+	.slider-nav {
+		display: inline-block;
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		color: $color-dark;
+		background: none;
+		font-size: 21px;
+		text-align: center;
+		float: left;
+		padding: 0px;
+		margin: auto auto;
+		color: $color-gray;
+		top: 0px;
+		bottom: 0px;
+		line-height: 1;
+		
+		&:hover {
+			cursor: pointer;
+		}
+		
+		&.prev {
+			left: 0px;
+			display: block;
+			
+			@media(max-width: 767px) {
+				left: -15px;
+			}
+		}
+		
+		&.next {
+			left: initial;
+			right: 0px;
+			display: block;
+			
+			@media(max-width: 767px) {
+				right: -15px;
+			}
+		}
+	}
+}
+
+.slick-dots {
+	text-align: center;
+	padding: 0;
+	margin-bottom: 15px;
+	
+	li {
+		position: relative;
+		display: inline-block;
+		width: 12px;
+		height: 12px;
+		margin: 0 3px;
+		padding: 0;
+		cursor: pointer;
+		
+		&:only-child {
+			@include opacity(0);
+		}
+		
+		button {
+			font-size: 0;
+			line-height: 0;
+			display: block;
+			width: 12px;
+			height: 12px;
+			padding: 0px;
+			cursor: pointer;
+			color: transparent;
+			border: 0;
+			outline: none;
+			background: transparent;
+			
+			&:before, &::before {
+				content: ' ';
+				position: absolute;
+				top: 0;
+				bottom: 0px;
+				left: 0;
+				right: 0px;
+				left: 0px;
+				margin: auto auto;
+				width: 12px;
+				height: 12px;
+				background: none;
+				border: 2px solid $color-body-text;
+				@include border-radius(50%);
+			}
+		}
+		
+		&.slick-active {
+			button {
+				&:before, &::before {
+					background: $color-body-text;
+					@include box-shadow(inset 0px 0px 1px 1px $color-bright);
+				}
+			}
+		}
+	}
+}
+
+.country-list {
+	text-align: left;
+}
